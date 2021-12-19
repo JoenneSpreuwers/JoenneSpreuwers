@@ -66,7 +66,7 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 ![rtx-1060](https://img.shields.io/badge/NVIDIA-RTX_2070_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![win11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## Links
+## :link: Links
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joennespreuwers_)
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joennespreuwers)
 [![spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/c5f9htb452e5wds042ay28lvy?si=0ac838c2c03d4684)
@@ -76,5 +76,8 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 [![joennespreuwers.be](https://img.shields.io/badge/joennespreuwers.be-e8e8e8?style=for-the-badge)](https://joennespreuwers.be)
 [![jartemis.net](https://img.shields.io/badge/jartemis.net-2e2e2e?style=for-the-badge)](https://jartemis.net)
 
-## Gallery
-> Noting here yet
+## :chart_with_upwards_trend: Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joennespreuwers&show_icons=true&hide_border=true)
+
+## :page_facing_up: Gallery
+Noting here yet
