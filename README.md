@@ -1,4 +1,4 @@
-# Hi there! :wave:
+# Hi there stranger! :wave:
 ## :rocket: About Me
 
 :mortar_board: I am **Joenne Spreuwers**, a 15yo Belgian student that likes to code in his free time. I'm currently studying **Math/Sciences** and looking forward to go study **Networking** and getting my [Network+](https://www.comptia.org/certifications/network)/[CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) afterward.
