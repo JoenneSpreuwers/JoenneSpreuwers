@@ -78,6 +78,7 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 
 ## :chart_with_upwards_trend: Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joennespreuwers&show_icons=true&hide_border=true)
+![!Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joennespreuwers&langs_count=8&show_icons=true&hide_border=true&card_width=496)
 
 ## :page_facing_up: Gallery <a id="gallery">
 Noting here yet
