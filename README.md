@@ -14,7 +14,7 @@
 :joystick: I like to game (when I'm not coding ofc), some titles that I play are **Minecraft**, **CS:GO**, **Rocket League**, and **Apex Legends**. If u ever wanna play with me, [hit me up](#links).
 
 <h2>
-  <img style="vertical-align:bottom" src="src/home-lab.png" width="32">
+  <img style="vertical-align:middle" src="src/home-lab.png" width="32">
   <span style="">Home Lab</span>
 </h2>
 
