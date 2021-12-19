@@ -14,7 +14,7 @@
 :joystick: I like to game (when I'm not coding ofc), some titles that I play are **Minecraft**, **CS:GO**, **Rocket League**, and **Apex Legends**. If u ever wanna play with me, [hit me up](#links).
 
 <h2>
-  <img style="vertical-align:middle" src="src/home-lab.png" width="32">
+  <img style="vertical-align:bottom" src="src/home-lab.png" width="32">
   <span style="">Home Lab</span>
 </h2>
 
@@ -30,7 +30,7 @@ I own an old **Hp Proliant DL380g6** that I use to host all my projects on. I go
 
 ### Software:
 The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to virtualisize a handfull of VMs:
-- [Pfsense](https://www.pfsense.org/): Used mainly for portforwaring and Proxying (HaProxy)
+- [Pfsense](): Used mainly for portforwaring and Proxying (HaProxy)
 - [Portainer](https://www.portainer.io/): A docker wrapper with webUI deployed for [hosting websites](#links) and my [Grafana Dashboard](https://grafana.com/) + [Prometheus](https://prometheus.io/) for logging
 - [Pterodactyl](https://pterodactyl.io/): A docker wrapper used to manage game servers
 - [SoftEther](https://www.softether.org/): Used to have a direct tap-in into my home network
