@@ -29,11 +29,11 @@ I own an old **Hp Proliant DL380g6** that I use to host all my projects on. I go
 - :books: Backup: Synology DS212J (2x **3TB** WD Green HDD)
 
 ### Software:
-The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to virtualisize a handfull of VMs:
-- [Pfsense](): Used mainly for portforwaring and Proxying (HaProxy)
-- [Portainer](https://www.portainer.io/): A docker wrapper with webUI deployed for [hosting websites](#links) and my [Grafana Dashboard](https://grafana.com/) + [Prometheus](https://prometheus.io/) for logging
-- [Pterodactyl](https://pterodactyl.io/): A docker wrapper used to manage game servers
-- [SoftEther](https://www.softether.org/): Used to have a direct tap-in into my home network
+The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to **virtualisize** a handfull of VMs:
+- [Pfsense](): Used mainly for **portforwaring** and **Proxying** (HaProxy)
+- [Portainer](https://www.portainer.io/): A **Docker** wrapper with a **webfront** deployed for [hosting websites](#links) and my [Grafana Dashboard](https://grafana.com/) + [Prometheus](https://prometheus.io/) for **logging**
+- [Pterodactyl](https://pterodactyl.io/): A **Docker** wrapper used to manage **game servers**
+- [SoftEther](https://www.softether.org/): Used to have a direct **tap-in** into my **home network**
 
 ## :hammer_and_wrench: Skills and Tools
 
