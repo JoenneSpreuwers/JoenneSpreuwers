@@ -81,11 +81,9 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 ![!Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joennespreuwers&langs_count=8&hide=css&show_icons=true&hide_border=true&card_width=496)
 
 ## :rocket: I'm going to space :wink:
-<p style="border: 10px solid white; border-radius: 10px;">
-  <a href="https://mars.nasa.gov/participate/send-your-name/future/certificate/60508453657">
-    <img width=100% align="center" src="./src/boardingpass.png"><img/>
-  <a/>
-<p/>
+<a href="https://mars.nasa.gov/participate/send-your-name/future/certificate/60508453657">
+  <img width=100% align="center" src="./src/boardingpass.png"><img/>
+<a/>
 
 
 ## :page_facing_up: Gallery <a id="gallery">
