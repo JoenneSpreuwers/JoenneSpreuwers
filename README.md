@@ -15,13 +15,13 @@
 
 <h2 id="home-lab">
   <img style="vertical-align:middle" src="src/home-lab.png" width="32">
-  <span style="">Home Lab</span>
+  <span style="">Home Lab - Soon Upgrading</span>
 </h2>
 
 I own an old **Hp Proliant DL380g6** that I use to host all my projects on. I got it as a birthday gift from my Uncle and gotta say, that that is probably one of the best gifts I ever got :smile:
 
 ### Specs:
-- :abacus: CPU: 2x Intel **Xeon** x5550
+- :abacus: CPU: 2x Intel **Xeon** x5670
 - :floppy_disk: RAM: **64GB** (14x **4GB** Hynix 1333MT/s + 4x **2GB** Samsung 1333MT/s)
 - :file_cabinet: Storage:
   - Boot: 2x **72GB** Hp 6G DP 15K SAS (RAID1)
