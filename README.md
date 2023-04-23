@@ -33,15 +33,14 @@ Because I switched my whole setup I'm still working on a new text segment to put
 
 ### Services
 ![aws](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare]
+![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![instatus](https://img.shields.io/badge/instatus-4EE3C2?style=for-the-badge&logo=instatus&logoColor=white)
 
 ### Design tools
 ![inkscape](https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![adobe-lightroom-classic](https://img.shields.io/badge/adobe_lightroom_classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma]
-![Onshape]
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Workspace Setup
 ![intel-i7-10th](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -56,7 +55,7 @@ Because I switched my whole setup I'm still working on a new text segment to put
 [![discord](https://img.shields.io/badge/mrsprew%239180-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/211837665971142657)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyE0ujP5T5tvFQeNckJ1qAA)
 
-##### Personal websites
+### Personal websites
 [![joennespreuwers.be](https://img.shields.io/badge/joennespreuwers.be-e8e8e8?style=for-the-badge)](https://joennespreuwers.be)
 [![jartemis.net](https://img.shields.io/badge/jartemis.net-2e2e2e?style=for-the-badge)](https://jartemis.net)
 
