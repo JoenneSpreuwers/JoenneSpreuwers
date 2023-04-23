@@ -1,39 +1,20 @@
 # Hi there stranger! :wave:
 ## :rocket: About Me
 
-:mortar_board: I am **Joenne Spreuwers**, a 16yo Belgian student that likes to code in his free time. I'm currently studying **Math/Sciences** and looking forward to go study **Networking** and getting my [Network+](https://www.comptia.org/certifications/network)/[CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) afterward.
+:mortar_board: Hi, my name is **Joenne Spreuwers**, a 17y/o Belgian student that loves the world of computers. I'm currenly studying **Math / Sciences** at Highschool but I'm looking forward to go study **Engineering / Networking**
 
-:floppy_disk: I love to code whenever I can. I'm currently learning **JavaScript** and have basic knowledge of **Python** and **Bash**. I also own my own [homelab](#home-lab) where i self host **dockers** containing **game servers**, [**websites**](#links), and more.
+:floppy_disk: I'm really into coding these days! I'm honing my skills in **JavaScript** and **Vue**, and I'm also pretty comfortable with **Python** and **Bash**. I've got this sweet [homelab](#home-lab) where I host my own **dockers**, including **game servers** and websites. Feel free to check out some of my sites using the [links](#links) below!
 
-:art: Whenever a friend or relative needs a **logo**, **banner**, or **other digital art**, they can [contact](#links) me with the question if I could make something for them (so can you). I always replied happily and made some [beatifull things](#gallery) :smile:
+:camera_flash: I've been doing **photography** for approximately four years now, and I make it a habit to post almost every picture I take on my Instagram account. You can find me on [Instagram](https://www.instagram.com/joennespreuwers_/). If you like my work, feel free to give me a like! :heart:
 
-:camera_flash: I'm doing **photography** now for about **5 years**, I post (almost) every picture I snap on my [Instagram](https://www.instagram.com/joennespreuwers_/). Leave a like if you want :heart:
-
-:radio: I'm always listening to music, some of my favorite genres are 70's, LoFi, Jazz, and DnB. Wanna check out some of my playlists? Head to [links](#links) and find my Spotify.
-
-:joystick: I like to game (when I'm not coding ofc), some titles that I play are **Minecraft**, **CS:GO**, **Rocket League**, and **Apex Legends**. If u ever wanna play with me, [hit me up](#links).
+:radio: I always have music playing, whether I'm coding, studying, or simply relaxing. I love exploring **new music** and discovering **different genres**. Do you want to know what I'm currently listening to? Follow me on [Spotify](#links)!
 
 <h2 id="home-lab">
   <img style="vertical-align:middle" src="src/home-lab.png" width="32">
-  <span style="">Home Lab - Soon Upgrading</span>
+  <span style="">Home Lab - Updating</span>
 </h2>
 
-I own an old **Hp Proliant DL380g6** that I use to host all my projects on. I got it as a birthday gift from my Uncle and gotta say, that that is probably one of the best gifts I ever got :smile:
-
-### Specs:
-- :abacus: CPU: 2x Intel **Xeon** x5670
-- :floppy_disk: RAM: **64GB** (14x **4GB** Hynix 1333MT/s + 4x **2GB** Samsung 1333MT/s)
-- :file_cabinet: Storage:
-  - Boot: 2x **72GB** Hp 6G DP 15K SAS (RAID1)
-  - Datastore: 4x **146GB** Hp DP 10K SAS (RAID10)
-- :books: Backup: Synology DS212J (2x **3TB** WD Green HDD)
-
-### Software:
-The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to **virtualisize** a handfull of VMs:
-- [Pfsense](): Used mainly for **portforwaring** and **Proxying** (HaProxy)
-- [Portainer](https://www.portainer.io/): A **Docker** wrapper with a **webfront** deployed for [hosting websites](#links) and my [Grafana Dashboard](https://grafana.com/) + [Prometheus](https://prometheus.io/) for **logging**
-- [Pterodactyl](https://pterodactyl.io/): A **Docker** wrapper used to manage **game servers**
-- [SoftEther](https://www.softether.org/): Used to have a direct **tap-in** into my **home network**
+Because I switched my whole setup I'm still working on a new text segment to put here.
 
 ## :hammer_and_wrench: Skills and Tools
 
@@ -52,14 +33,15 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 
 ### Services
 ![aws](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare]
 ![instatus](https://img.shields.io/badge/instatus-4EE3C2?style=for-the-badge&logo=instatus&logoColor=white)
 
 ### Design tools
 ![inkscape](https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![adobe-lightroom-classic](https://img.shields.io/badge/adobe_lightroom_classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![adobe-indesign](https://img.shields.io/badge/adobe_indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![autodesk-fusion360](https://img.shields.io/badge/autodesk_fusion360-ff9c44?style=for-the-badge&logo=autodesk&logoColor=white)
+![Figma]
+![Onshape]
 
 ## Workspace Setup
 ![intel-i7-10th](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -73,12 +55,14 @@ The main OS on my server is [Proxmox VE](https://www.proxmox.com/), i use it to 
 [![steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrsprew)
 [![discord](https://img.shields.io/badge/mrsprew%239180-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/211837665971142657)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyE0ujP5T5tvFQeNckJ1qAA)
+
+##### Personal websites
 [![joennespreuwers.be](https://img.shields.io/badge/joennespreuwers.be-e8e8e8?style=for-the-badge)](https://joennespreuwers.be)
 [![jartemis.net](https://img.shields.io/badge/jartemis.net-2e2e2e?style=for-the-badge)](https://jartemis.net)
 
 ## :chart_with_upwards_trend: Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joennespreuwers&show_icons=true&hide_border=true)
-![!Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joennespreuwers&langs_count=8&hide=css&show_icons=true&hide_border=true&card_width=496)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joennespreuwers&show_icons=true&hide_border=true&theme=transparent)
+![!Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joennespreuwers&langs_count=8&hide=css&show_icons=true&hide_border=true&card_width=496&theme=transparent)
 
 ## :rocket: I'm going to space :wink:
 <a href="https://mars.nasa.gov/participate/send-your-name/future/certificate/60508453657">
